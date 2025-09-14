@@ -1,0 +1,2 @@
+# TpsDotnet
+Premiers exercices .NET
