@@ -1,0 +1,14 @@
+C:\Users\Dahia\Documents\NombreMystere\bin\Debug\net9.0\NombreMystere.exe
+C:\Users\Dahia\Documents\NombreMystere\bin\Debug\net9.0\NombreMystere.deps.json
+C:\Users\Dahia\Documents\NombreMystere\bin\Debug\net9.0\NombreMystere.runtimeconfig.json
+C:\Users\Dahia\Documents\NombreMystere\bin\Debug\net9.0\NombreMystere.dll
+C:\Users\Dahia\Documents\NombreMystere\bin\Debug\net9.0\NombreMystere.pdb
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.AssemblyInfoInputs.cache
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.AssemblyInfo.cs
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.csproj.CoreCompileInputs.cache
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.dll
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\refint\NombreMystere.dll
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.pdb
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\NombreMystere.genruntimeconfig.cache
+C:\Users\Dahia\Documents\NombreMystere\obj\Debug\net9.0\ref\NombreMystere.dll

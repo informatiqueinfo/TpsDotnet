@@ -1,0 +1,14 @@
+C:\Users\Dahia\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.exe
+C:\Users\Dahia\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.deps.json
+C:\Users\Dahia\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.runtimeconfig.json
+C:\Users\Dahia\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.dll
+C:\Users\Dahia\Documents\MonPremierProjet\bin\Debug\net9.0\MonPremierProjet.pdb
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.AssemblyInfoInputs.cache
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.AssemblyInfo.cs
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.csproj.CoreCompileInputs.cache
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.dll
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\refint\MonPremierProjet.dll
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.pdb
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\MonPremierProjet.genruntimeconfig.cache
+C:\Users\Dahia\Documents\MonPremierProjet\obj\Debug\net9.0\ref\MonPremierProjet.dll

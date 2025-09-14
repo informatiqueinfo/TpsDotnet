@@ -1,0 +1,14 @@
+C:\Users\Dahia\Documents\Exo01\bin\Debug\net9.0\Exo01.exe
+C:\Users\Dahia\Documents\Exo01\bin\Debug\net9.0\Exo01.deps.json
+C:\Users\Dahia\Documents\Exo01\bin\Debug\net9.0\Exo01.runtimeconfig.json
+C:\Users\Dahia\Documents\Exo01\bin\Debug\net9.0\Exo01.dll
+C:\Users\Dahia\Documents\Exo01\bin\Debug\net9.0\Exo01.pdb
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.AssemblyInfoInputs.cache
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.AssemblyInfo.cs
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.csproj.CoreCompileInputs.cache
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.dll
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\refint\Exo01.dll
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.pdb
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\Exo01.genruntimeconfig.cache
+C:\Users\Dahia\Documents\Exo01\obj\Debug\net9.0\ref\Exo01.dll
